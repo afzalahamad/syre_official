@@ -6,7 +6,7 @@ export default component$(() => {
     <>
       <h1>Hi 👋</h1>
       <div>
-        Can't wait to see what you build with qwik!
+        Wecolme to Syre AI
         <br />
         Happy coding.
       </div>
@@ -15,7 +15,7 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: "Welcome to Qwik",
+  title: "Syre AI Official",
   meta: [
     {
       name: "description",
