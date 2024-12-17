@@ -1,18 +1,13 @@
-# Qwik City App ⚡️
+# Syre Official Site ⚡️
 
-- [Qwik Docs](https://qwik.dev/)
-- [Discord](https://qwik.dev/chat)
-- [Qwik GitHub](https://github.com/QwikDev/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Vite](https://vitejs.dev/)
+- [Syre AI](https://syre.ai/)
 
 ---
 
-## Project Structure
+This is the official site of Syre AI
+Also site was deleveloped using Qwikjs [Qwik JS](https://qwik.dev)
 
-This project is using Qwik with [QwikCity](https://qwik.dev/qwikcity/overview/). QwikCity is just an extra set of tools on top of Qwik to make it easier to build a full site, including directory-based routing, layouts, and more.
-
-Inside your project, you'll see the following directory structure:
+Inside this project, you'll see the following directory structure:
 
 ```
 ├── public/
